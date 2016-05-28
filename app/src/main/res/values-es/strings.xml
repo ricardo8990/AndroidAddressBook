@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="AddNewContact">Crear nuevo contacto</string>
+    <string name="AreYouSure">¿Estás seguro?</string>
+    <string name="Camera">Cámara</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="ContactDeleted">Contacto eliminado</string>
+    <string name="ContactImage">Imagen del contacto</string>
+    <string name="ContactUpdated">Contacto actualizado</string>
+    <string name="DeleteContact">Eliminar contacto</string>
+    <string name="EditContact">Editar contacto</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="EmailFormatNoValid">Formato del correo electrónico no es válido</string>
+    <string name="InvalidEmail">Correo electrónico inválido</string>
+    <string name="Name">Nombre</string>
+    <string name="NameAndPhoneRequired">Nombre y teléfono son obligatorios</string>
+    <string name="NameRequired">Nombre es obligatorio</string>
+    <string name="NewContactCreated">Nuevo contacto creado</string>
+    <string name="No">No</string>
+    <string name="NoContactFound">No se encontró el contacto</string>
+    <string name="Phone">Teléfono</string>
+    <string name="PhoneFormatNoValid">Formato del teléfono inválido</string>
+    <string name="PhoneRequired">Teléfono es obligatorio</string>
+    <string name="Photos">Galeria</string>
+    <string name="RemovePhoto">Eliminar imagen</string>
+    <string name="Save">Guardar</string>
+    <string name="UpdateImage">Actualizar imagen</string>
+    <string name="UploadNewImage">Añadir una nueva imagen</string>
+    <string name="Yes">Si</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hello_world">¡Hola mundo!</string>
+    <string name="title_activity_new_contact">Nuevo contacto</string>
+</resources>
